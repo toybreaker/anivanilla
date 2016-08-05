@@ -1,0 +1,85 @@
+year,animal,start_date,end_date,yinyang,element,heavenly_stem,earthly_branch
+1940,dragon,feb 08 1940,jan 26 1941,yang,metal,庚,辰
+1941,snake,jan 27 1941,feb 14 1942,yin,metal,辛,巳
+1942,horse,Feb 15 1942,Feb 04 1943,Yin,Water,壬,午
+1943,goat,Feb 05 1943,Jan 24 1944,Yang,Water,癸,未
+1944,monkey,Jan 25 1944,Feb 12 1945,Yang,Wood,甲,申
+1945,rooster,Feb 13 1945,Feb 01 1946,Yin Wood,乙,酉
+1946,dog,Feb 02 1946,Jan 21 1947,Yin,Fire,丙,戌
+1947,pig,Jan 22 1947,Feb 09 1948,Yang,Fire,丁,亥
+1948,rat,Feb 10 1948,Jan 28 1949,Yang,Earth,戊,子
+1949,buffalo,Jan 29 1949,Feb 16 1950,Yin,Earth,己,丑
+1950,tiger,Feb 17 1950,Feb 05 1951,Yin,Metal,庚,寅
+1951,rabbit,Feb 06 1951,Jan 26 1952,Yang,Metal,辛,卯
+1952,dragon,Jan 27 1952,Feb 13 1953,Yang,Water,壬,辰
+1953,snake,Feb 14 1953,Feb 02 1954,Yin,Water,癸,巳
+1954,horse,Feb 03 1954,Jan 23 1955,Yin,Wood,甲,午
+1555,goat,Jan 24 1955,Feb 11 1956,Yang,Wood,乙,未
+1956,monkey,Feb 12 1956,Jan 30 1957,Yang,Fire,丙,申
+1957,rooster,Jan 31 1957,Feb 17 1958,Yin Fire,丁,酉
+1958,dog,Feb 18 1958,Feb 07 1959,Yin,Earth,戊,戌
+1959,pig,Feb 08 1959,Jan 27 1960,Yang,Earth,己,亥
+1960,rat,Jan 28 1960,Feb 14 1961,Yang,Metal,庚,子
+1961,buffalo,Feb 15 1961,Feb 04 1962,Yin,Metal,辛,丑
+1962,tiger,Feb 05 1962,Jan 24 1963,Yin,Water,壬,寅
+1963,rabbit,Jan 25 1963,Feb 12 1964,Yang,Water,癸,卯
+1964,dragon,Feb 13 1964,Feb 01 1965,Yang,Wood,甲,辰
+1965,snake,Feb 02 1965,Jan 20 1966,Yin,Wood,乙,巳
+1966,horse,Jan 21 1966,Feb 08 1967,Yin,Fire,丙,午
+1967,goat,Feb 09 1967,Jan 29 1968,Yang,Fire,丁,未
+1968,monkey,Jan 30 1968,Feb 16 1969,Yang,Earth,戊,申
+1969,rooster,Feb 17 1969,Feb 05 1970,Yin,Earth,己,酉
+1970,dog,Feb 06 1970,Jan 26 1971,Yin,Metal,庚,戌
+1971,pig,Jan 27 1971,Feb 14 1972,Yang,Metal,辛,亥
+1972,rat,Feb 15 1972,Feb 02 1973,Yang,Water	壬,子
+1973,buffalo,Feb 03 1973,Jan 22 1974,Yin,Water,癸,丑
+1974,tiger,Jan 23 1974,Feb 10 1975,Yin,Wood,甲,寅
+1975,rabbit,Feb 11 1975,Jan 30 1976,Yang,Wood,乙,卯
+1976,dragon,Jan 31 1976,Feb 17 1977,Yang,Fire	丙	辰
+1977,snake,Feb 18 1977,Feb 06 1978,Yin,Fire,丁,巳
+1978,horse,Feb 07 1978,Jan 27 1979,Yin,Earth,戊,午
+1979,goat,Jan 28 1979,Feb 15 1980,Yang,Earth,己,未
+1980,monkey,Feb 16 1980,Feb 04 1981,Yang Metal,庚,申
+1981,rooster,Feb 05 1981,Jan 24 1982,Yin,Metal,辛,酉
+1982,dog,Jan 25 1982,Feb 12 1983,Yin,Water,壬,戌
+1983,pig,Feb 13 1983,Feb 01 1984,Yang,Water,癸,亥
+1984,rat,Feb 02 1984,Jan 21 1985,Yang,Wood,甲,子
+1985,buffalo,wood
+1986,tiger,fire
+1987,rabbit,fire
+1988,dragon,earth
+1989,snake,earth
+1990,horse,metal
+1991,goat,metal
+1992,monkey,water
+1993,rooster,water
+1994,dog,wood
+1995,pig,wood
+1996,rat,fire
+1997,buffalo,fire
+1998,tiger,earth
+1999,rabbit,earth
+2000,dragon,metal
+2001,snake,metal
+2002,horse,water
+2003,goat,water
+2004,monkey,wood
+2005,rooster,wood
+2006,dog,fire
+2007,pig,fire
+2008,rat,earth
+2009,buffalo,earth
+2010,tiger,metal
+2011,rabbit,metal
+2012,dragon,water
+2013,snake,water
+2014,horse,wood
+2015,goat,wood
+2016,monkey,fire
+2017,rooster,fire
+2018,dog,earth
+2019,pig,earth
+2020,rat,metal
+2021,buffalo,metal
+2023,rabbit,water
+2024,dragon,wood

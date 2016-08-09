@@ -1,0 +1,347 @@
+{
+  "header": "years",
+  "items": [
+    {
+        "year": 1940,
+        "animal": "dragon",
+        "start_date": "feb 08 1940",
+        "end_date": "jan 26 1941",
+        "yinyang": "Yang",
+        "element": "metal",
+        "heavenly_stem": "庚",
+        "earthly_branch": "辰"
+    }, {
+        "year": 1941,
+        "animal": "snake",
+        "start_date": "jan 27 1941",
+        "end_date": "feb 14 1942",
+        "yinyang": "Yin",
+        "element": "metal",
+        "heavenly_stem": "辛",
+        "earthly_branch": "巳"
+    }, {
+        "year": 1942,
+        "animal": "horse",
+        "start_date": "Feb 15 1942",
+        "end_date": "Feb 04 1943",
+        "yinyang": "Yin",
+        "element": "Water",
+        "heavenly_stem": "壬",
+        "earthly_branch": "午"
+    }, {
+        "year": 1943,
+        "animal": "goat",
+        "start_date": "Feb 05 1943",
+        "end_date": "Jan 24 1944",
+        "yinyang": "Yang",
+        "element": "Water",
+        "heavenly_stem": "癸",
+        "earthly_branch": "未"
+    }, {
+        "year": 1944,
+        "animal": "monkey",
+        "start_date": "Jan 25 1944",
+        "end_date": "Feb 12 1945",
+        "yinyang": "Yang",
+        "element": "Wood",
+        "heavenly_stem": "甲",
+        "earthly_branch": "申"
+    }, {
+        "year": 1945,
+        "animal": "rooster",
+        "start_date": "Feb 13 1945",
+        "end_date": "Feb 01 1946",
+        "yinyang": "Yin",
+        "element": "Wood",
+        "heavenly_stem": "乙",
+        "earthly_branch": "酉"
+    }, {
+        "year": 1946,
+        "animal": "dog",
+        "start_date": "Feb 02 1946",
+        "end_date": "Jan 21 1947",
+        "yinyang": "Yin",
+        "element": "Fire",
+        "heavenly_stem": "丙",
+        "earthly_branch": "戌"
+    }, {
+        "year": 1947,
+        "animal": "pig",
+        "start_date": "Jan 22 1947",
+        "end_date": "Feb 09 1948",
+        "yinyang": "Yang",
+        "element": "Fire",
+        "heavenly_stem": "丁",
+        "earthly_branch": "亥"
+    }, {
+        "year": 1948,
+        "animal": "rat",
+        "start_date": "Feb 10 1948",
+        "end_date": "Jan 28 1949",
+        "yinyang": "Yang",
+        "element": "Earth",
+        "heavenly_stem": "戊",
+        "earthly_branch": "子"
+    }, {
+        "year": 1949,
+        "animal": "buffalo",
+        "start_date": "Jan 29 1949",
+        "end_date": "Feb 16 1950",
+        "yinyang": "Yin",
+        "element": "Earth",
+        "heavenly_stem": "己",
+        "earthly_branch": "丑"
+    }, {
+        "year": 1950,
+        "animal": "tiger",
+        "start_date": "Feb 17 1950",
+        "end_date": "Feb 05 1951",
+        "yinyang": "Yin",
+        "element": "Metal",
+        "heavenly_stem": "庚",
+        "earthly_branch": "寅"
+    }, {
+        "year": 1951,
+        "animal": "rabbit",
+        "start_date": "Feb 06 1951",
+        "end_date": "Jan 26 1952",
+        "yinyang": "Yang",
+        "element": "Metal",
+        "heavenly_stem": "辛",
+        "earthly_branch": "卯"
+    }, {
+        "year": 1952,
+        "animal": "dragon",
+        "start_date": "Jan 27 1952",
+        "end_date": "Feb 13 1953",
+        "yinyang": "Yang",
+        "element": "Water",
+        "heavenly_stem": "壬",
+        "earthly_branch": "辰"
+    }, {
+        "year": 1953,
+        "animal": "snake",
+        "start_date": "Feb 14 1953",
+        "end_date": "Feb 02 1954",
+        "yinyang": "Yin",
+        "element": "Water",
+        "heavenly_stem": "癸",
+        "earthly_branch": "巳"
+    }, {
+        "year": 1954,
+        "animal": "horse",
+        "start_date": "Feb 03 1954",
+        "end_date": "Jan 23 1955",
+        "yinyang": "Yin",
+        "element": "Wood",
+        "heavenly_stem": "甲",
+        "earthly_branch": "午"
+    }, {
+        "year": 1555,
+        "animal": "goat",
+        "start_date": "Jan 24 1955",
+        "end_date": "Feb 11 1956",
+        "yinyang": "Yang",
+        "element": "Wood",
+        "heavenly_stem": "乙",
+        "earthly_branch": "未"
+    }, {
+        "year": 1956,
+        "animal": "monkey",
+        "start_date": "Feb 12 1956",
+        "end_date": "Jan 30 1957",
+        "yinyang": "Yang",
+        "element": "Fire",
+        "heavenly_stem": "丙",
+        "earthly_branch": "申"
+    }, {
+        "year": 1957,
+        "animal": "rooster",
+        "start_date": "Jan 31 1957",
+        "end_date": "Feb 17 1958",
+        "yinyang": "yin",
+        "element": "Fire",
+        "heavenly_stem": "丁",
+        "earthly_branch": "酉"
+    }, {
+        "year": 1958,
+        "animal": "dog",
+        "start_date": "Feb 18 1958",
+        "end_date": "Feb 07 1959",
+        "yinyang": "Yin",
+        "element": "Earth",
+        "heavenly_stem": "戊",
+        "earthly_branch": "戌"
+    }, {
+        "year": 1959,
+        "animal": "pig",
+        "start_date": "Feb 08 1959",
+        "end_date": "Jan 27 1960",
+        "yinyang": "Yang",
+        "element": "Earth",
+        "heavenly_stem": "己",
+        "earthly_branch": "亥"
+    }, {
+        "year": 1960,
+        "animal": "rat",
+        "start_date": "Jan 28 1960",
+        "end_date": "Feb 14 1961",
+        "yinyang": "Yang",
+        "element": "Metal",
+        "heavenly_stem": "庚",
+        "earthly_branch": "子"
+    }, {
+        "year": 1961,
+        "animal": "buffalo",
+        "start_date": "Feb 15 1961",
+        "end_date": "Feb 04 1962",
+        "yinyang": "Yin",
+        "element": "Metal",
+        "heavenly_stem": "辛",
+        "earthly_branch": "丑"
+    }, {
+        "year": 1962,
+        "animal": "tiger",
+        "start_date": "Feb 05 1962",
+        "end_date": "Jan 24 1963",
+        "yinyang": "Yin",
+        "element": "Water",
+        "heavenly_stem": "壬",
+        "earthly_branch": "寅"
+    }, {
+        "year": 1963,
+        "animal": "rabbit",
+        "start_date": "Jan 25 1963",
+        "end_date": "Feb 12 1964",
+        "yinyang": "Yang",
+        "element": "Water",
+        "heavenly_stem": "癸",
+        "earthly_branch": "卯"
+    }, {
+        "year": 1964,
+        "animal": "dragon",
+        "start_date": "Feb 13 1964",
+        "end_date": "Feb 01 1965",
+        "yinyang": "Yang",
+        "element": "Wood",
+        "heavenly_stem": "甲",
+        "earthly_branch": "辰"
+    }, {
+        "year": 1965,
+        "animal": "snake",
+        "start_date": "Feb 02 1965",
+        "end_date": "Jan 20 1966",
+        "yinyang": "Yin",
+        "element": "Wood",
+        "heavenly_stem": "乙",
+        "earthly_branch": "巳"
+    }, {
+        "year": 1966,
+        "animal": "horse",
+        "start_date": "Jan 21 1966",
+        "end_date": "Feb 08 1967",
+        "yinyang": "Yin",
+        "element": "Fire",
+        "heavenly_stem": "丙",
+        "earthly_branch": "午"
+    }, {
+        "year": 1967,
+        "animal": "goat",
+        "start_date": "Feb 09 1967",
+        "end_date": "Jan 29 1968",
+        "yinyang": "Yang",
+        "element": "Fire",
+        "heavenly_stem": "丁",
+        "earthly_branch": "未"
+    }, {
+        "year": 1968,
+        "animal": "monkey",
+        "start_date": "Jan 30 1968",
+        "end_date": "Feb 16 1969",
+        "yinyang": "Yang",
+        "element": "Earth",
+        "heavenly_stem": "戊",
+        "earthly_branch": "申"
+    }, {
+        "year": 1969,
+        "animal": "rooster",
+        "start_date": "Feb 17 1969",
+        "end_date": "Feb 05 1970",
+        "yinyang": "Yin",
+        "element": "Earth",
+        "heavenly_stem": "己",
+        "earthly_branch": "酉"
+    }, {
+        "year": 1970,
+        "animal": "dog",
+        "start_date": "Feb 06 1970",
+        "end_date": "Jan 26 1971",
+        "yinyang": "Yin",
+        "element": "Metal",
+        "heavenly_stem": "庚",
+        "earthly_branch": "戌"
+    }, {
+        "year": 1971,
+        "animal": "pig",
+        "start_date": "Jan 27 1971",
+        "end_date": "Feb 14 1972",
+        "yinyang": "Yang",
+        "element": "Metal",
+        "heavenly_stem": "辛",
+        "earthly_branch": "亥"
+    }, {
+        "year": 1972,
+        "animal": "rat",
+        "start_date": "Feb 15 1972",
+        "end_date": "Feb 02 1973",
+        "yinyang": "Yang",
+        "element": "Water",
+        "heavenly_stem": "壬",
+        "earthly_branch": "子"
+    }, {
+        "year": 1973,
+        "animal": "buffalo",
+        "start_date": "Feb 03 1973",
+        "end_date": "Jan 22 1974",
+        "yinyang": "Yin",
+        "element": "Water",
+        "heavenly_stem": "癸",
+        "earthly_branch": "丑"
+    }, {
+        "year": 1974,
+        "animal": "tiger",
+        "start_date": "Jan 23 1974",
+        "end_date": "Feb 10 1975",
+        "yinyang": "Yin",
+        "element": "Wood",
+        "heavenly_stem": "甲",
+        "earthly_branch": "寅"
+    }, {
+        "year": 1975,
+        "animal": "rabbit",
+        "start_date": "Feb 11 1975",
+        "end_date": "Jan 30 1976",
+        "yinyang": "Yang",
+        "element": "Wood",
+        "heavenly_stem": "乙",
+        "earthly_branch": "卯"
+    }, {
+        "year": 1976,
+        "animal": "dragon",
+        "start_date": "Jan 31 1976",
+        "end_date": "Feb 17 1977",
+        "yinyang": "Yang",
+        "element": "Fire",
+        "heavenly_stem": "丙",
+        "earthly_branch": "辰"
+    }, {
+        "year": 1977,
+        "animal": "snake",
+        "start_date": "Feb 18 1977",
+        "end_date": "Feb 06 1978",
+        "yinyang": "Yin",
+        "element": "Fire",
+        "heavenly_stem": "丁",
+        "earthly_branch": "巳"
+    }]
+}

@@ -7,6 +7,12 @@ request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
     // Success!
     var data = JSON.parse(this.response);
+    for(var i = 0; i < data.length; i++) {
+        var obj = data[i];
+
+        console.log("Name: " + obj.year + ", " + obj.animal);
+    }
+
   } else {
     // We reached our target server, but it returned an error
 

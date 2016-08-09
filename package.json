@@ -1,0 +1,28 @@
+{
+  "name": "aniyou",
+  "version": "0.0.1",
+  "description": "find the animal in you",
+  "main": "app.js",
+  "dependencies": {
+    "mustache": "^2.2.1"
+  },
+  "devDependencies": {
+    "mustache": "^2.2.1"
+  },
+  "scripts": {
+     "build": "mustache dataView.json myTemplate.mustache > public/output.html"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toybreaker/aniyou.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "toybreaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toybreaker/aniyou/issues"
+  },
+  "homepage": "https://github.com/toybreaker/aniyou#readme"
+}

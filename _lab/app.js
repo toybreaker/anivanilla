@@ -1,7 +1,9 @@
 //app.js
 
+
+
 var request = new XMLHttpRequest();
-request.open('GET', '/data/years_part.json', true);
+request.open('GET', '/data/years.json', true);
 
 request.onload = function() {
   if (this.status >= 200 && this.status < 400) {
@@ -10,7 +12,8 @@ request.onload = function() {
     for(var i = 0; i < data.length; i++) {
         var obj = data[i];
 
-        console.log("Name: " + obj.year + ", " + obj.animal);
+        console.log("year: " + obj.year + ", " + obj.animal + ", " + obj.element);
+
     }
 
   } else {

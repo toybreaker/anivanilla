@@ -46,30 +46,6 @@ nav {
 }
 
 
-/* red frame */
-
-.outer {
-  width: 90vw;
-	height: 90vh;
-
-  -webkit-clip-path: polygon(0% 5%, 5% 5%, 5% 0%, 95% 0%, 95% 5%, 100% 5%, 100% 95%, 95% 95%, 95% 100%, 5% 100%, 5% 95%, 0% 95%);
-  clip-path: polygon(0% 5%, 5% 5%, 5% 0%, 95% 0%, 95% 5%, 100% 5%, 100% 95%, 95% 95%, 95% 100%, 5% 100%, 5% 95%, 0% 95%);
-
-  background-color: red;
-}
-
-
-
-.inner {
-  margin-top:-1.5vh;
-  margin-left:.5vw;
-  width: 89vw;
-	height: 89vh;
-	background: black;
-	-webkit-clip-path: polygon(0% 5%, 5% 5%, 5% 0%, 95% 0%, 95% 5%, 100% 5%, 100% 95%, 95% 95%, 95% 100%, 5% 100%, 5% 95%, 0% 95%);
-clip-path: polygon0% 5%, 5% 5%, 5% 0%, 95% 0%, 95% 5%, 100% 5%, 100% 95%, 95% 95%, 95% 100%, 5% 100%, 5% 95%, 0% 95%);
-}
-
 /*when years are hidden, need a button to go back*/
 .years.small {
   min-height: auto;
@@ -162,7 +138,7 @@ main.hide {
 
 
 .rat,
-.buffalo,
+.ox,
 .tiger,
 .rabbit,
 .dragon,
@@ -180,15 +156,15 @@ main.hide {
   background-size: contain;
 }
 
-.rat{background-image: url(svg/1/rat.svg);}
-.buffalo{background-image: url(svg/1/buffalo.svg);}
-.tiger{background-image: url(svg/1/tiger.svg);}
-.rabbit{background-image: url(svg/1/rabbit.svg);}
-.dragon{background-image: url(svg/1/dragon.svg);}
-.snake{background-image: url(svg/1/snake.svg);}
-.horse{background-image: url(svg/1/horse.svg);}
-.goat{background-image: url(svg/1/goat.svg);}
-.monkey{background-image: url(svg/1/monkey.svg);}
-.rooster{background-image: url(svg/1/rooster.svg);}
-.dog{background-image: url(svg/1/dog.svg);}
-.pig {background-image: url(svg/1/pig.svg);}
+.rat{background-image: url(svg/rat.svg);}
+.ox{background-image: url(svg/ox.svg);}
+.tiger{background-image: url(svg/tiger.svg);}
+.rabbit{background-image: url(svg/rabbit.svg);}
+.dragon{background-image: url(svg/dragon.svg);}
+.snake{background-image: url(svg/snake.svg);}
+.horse{background-image: url(svg/horse.svg);}
+.goat{background-image: url(svg/goat.svg);}
+.monkey{background-image: url(svg/monkey.svg);}
+.rooster{background-image: url(svg/rooster.svg);}
+.dog{background-image: url(svg/dog.svg);}
+.pig {background-image: url(svg/pig.svg);}

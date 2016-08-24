@@ -84,7 +84,15 @@ main.hide {
   display: none;
 }
 
+.years_list a span {
+  display: block;
+  width: 100vw;
+  color: gold;
+}
 
+.years_list a span:first-child{
+  border-top: 1px solid red;
+}
 
 .rat,
 .ox,

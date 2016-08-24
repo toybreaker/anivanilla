@@ -1,120 +1,122 @@
 <!DOCTYPE html>
-<html >
-  <head>
+<html lang="en">
+
+<head>
     <meta charset="UTF-8">
     <title>ANIYOU • Know the Animal in You</title>
+
+    <style media="screen">
+        html {
+            font-size: 16px;
+            box-sizing: border-box;
+            font: caption;
+            font-weight: 200;
+            background-color: #161616;
+            color: white;
+            text-transform: uppercase;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+            padding: 0;
+            margin: 0;
+        }
+
+        body {}
+
+        app {
+            margin: 0;
+            padding: 0;
+            min-width: 100vw;
+            min-height: 100vh;
+            font-size: calc( 2vh + 2vw);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
     <link rel="stylesheet" href="rok.css">
+</head>
 
-  </head>
+<body>
 
-  <body>
+    <app role="navigation" class="years" id="years">
 
-    <nav role="navigation" class="years" id="years">
+        <a href="/" class="button hide" id="button"> start </a>
 
-      <a href="/" class="button hide" id="button"> start </a>
+        <div class="years_list" id="years_list"></div>
 
-      <div class="years_links" id="years_links">
-
-        <!-- <a href="#dragon">2024</a> -->
-      </div>
-
-    </nav>
+    </app>
 
 
-    <main role="main" class="animals hide" id="animals">
+<!--
+    <script type="text/javascript">
+        /* code that SPEAKs: toggle ... */
+        function toggleClass(element, className) {
+            if (!element || !className) {
+                return;
+            }
 
-      <div id="dragon" class="animal dragon">
-        <div class="title">dragon</div>
-        <div class="start_date"></div>
-      </div>
+            var classString = element.className,
+                nameIndex = classString.indexOf(className);
+            if (nameIndex == -1) {
+                classString += ' ' + className;
+            } else {
+                classString = classString.substr(0, nameIndex) + classString.substr(nameIndex + className.length);
+            }
+            element.className = classString;
+        }
 
-      <div id="snake" class="animal snake">
-        <div class="title">snake</div>
-      </div>
-
-      <div id="horse" class="animal horse">
-        <div class="title">horse</div>
-      </div>
-
-      <div id="goat" class="animal goat">
-        <div class="title">goat</div>
-      </div>
-
-      <div id="monkey" class="animal monkey">
-        <div class="title">monkey</div>
-      </div>
-
-      <div id="rooster" class="animal rooster">
-        <div class="title">rooster</div>
-      </div>
-
-      <div id="dog" class="animal dog">
-        <div class="title">dog</div>
-      </div>
-
-      <div id="pig" class="animal pig">
-        <div class="title">pig</div>
-      </div>
-
-      <div id="rat" class="animal rat">
-        <div class="title">rat</div>
-      </div>
-
-      <div id="ox" class="animal ox">
-        <div class="title">ox</div>
-      </div>
-
-      <div id="tiger" class="animal tiger">
-        <div class="title">tiger</div>
-      </div>
-
-      <div id="rabbit" class="animal rabbit">
-        <div class="title">rabbit</div>
-      </div>
-
-    </main>
-
+        document.getElementById('years_list').addEventListener('click', function() {
+            toggleClass(document.getElementById('animals'), 'hide'),
+            toggleClass(document.body, 'animal_you');
+        });
+    </script> -->
 
     <script type="text/javascript">
-      function yearsFunction(arr) {
-        var out = "";
-        var i;
-        for(i = 0; i < arr.length; i++) {
-            out += '<a href="#' + arr[i].animal + '">' + arr[i].year + '</a>';
+
+
+
+        function yearsFunction(arr) {
+          // function show_sub(el){
+          //   var last_child = element.lastChild;
+          //
+          //   // this.sub = "";
+          //   // var details = lastElementChild(parentDiv);
+          //   // = document.getElementById("shoppingBasket").innerText = "you have no products in your shopping basket.";
+          //
+          // };
+            var out = "";
+            var i;
+            for (i = 0; i < arr.length; i++) {
+                out += '<a href="#" onclick="reply_click(this.id)" id="' + arr[i].year + '"><div>' + arr[i].year + '</div><div class="hide" id="h_' + arr[i].animal + '"><span>' + arr[i].animal + '</span><span>' + arr[i].start_date + '</span><span>' + arr[i].end_date + '</span><span>' + arr[i].yinyang + '</span><span>' + arr[i].element + '</span><span>' + arr[i].heavenly_stem + '</span><span>' + arr[i].earthly_branch + '</span></div></a>';
+            }
+            document.getElementById("years_list").innerHTML = out;
         }
-        document.getElementById("years_links").innerHTML = out;
-      }
+        function reply_click(clicked_year)
+        {
+            //alert(clicked_id);
+            console.log(clicked_year);
+
+            //it works:
+            //document.getElementById(clicked_year).innerHTML = "ZAP";
+
+            var ieu = document.getElementById(clicked_year).lastChild;
+            console.log(ieu);
+
+            ieu.style.display = 'block';
+            // var last_child = (clicked_id).lastChild;
+            // document.getElementById(clicked_year).lastChild = "ZAP";
+        }
+
+
     </script>
 
     <script src="data/years.js"></script>
 
 
-    <script type="text/javascript">
-      /* code that SPEAKs: toggle ... */
-      function toggleClass(element, className){
-          if (!element || !className){
-              return;
-          }
+</body>
 
-          var classString = element.className, nameIndex = classString.indexOf(className);
-          if (nameIndex == -1) {
-              classString += ' ' + className;
-          }
-          else {
-              classString = classString.substr(0, nameIndex) + classString.substr(nameIndex+className.length);
-          }
-          element.className = classString;
-      }
-
-      document.getElementById('years').addEventListener('click', function() {
-        toggleClass(document.getElementById('animals'), 'hide'),
-        toggleClass(document.getElementById('years_links'), 'hide'),
-        toggleClass(document.getElementById('button'), 'hide'),
-        toggleClass(document.getElementById('years'), 'small'),
-        toggleClass(document.body, 'animal_you');
-      });
-
-    </script>
-
-  </body>
 </html>

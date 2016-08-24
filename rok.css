@@ -1,50 +1,10 @@
 /* basic layout */
 
-html {
-  font-size: 16px;
-  box-sizing: border-box;
-  font: caption;
-  font-weight: 200;
-  background-color: #161616;
-  color: white;
-  text-transform: uppercase;
-}
-
-*, *:before, *:after {
-  box-sizing: inherit;
-  padding:0;
-  margin:0;
-}
-
-body {
-
-}
-
-nav {
-  display: block;
-  margin: 0; padding:0;
-  text-align: center;
-
-}
-
 .years .button {
   position: fixed;
   top: 0;
   left: 0;
 }
-
-.years {
-
-  min-width: 100vw;
-  min-height: 100vh;
-  font-size: calc( 2vh + 2vw);
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-}
-
 
 /*when years are hidden, need a button to go back*/
 .years.small {
@@ -63,30 +23,19 @@ nav {
   color: orange;
 }
 
-
-.years_links {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
+.years_list {
   display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
   align-items: center;
+  justify-content: space-between;
+
   padding: 2rem;
   height: 96%;
   width: 96%;
   margin: 2vh 2vw;
 }
 
-.years .years_links {
+.years .years_list {
 
 }
 
@@ -132,7 +81,7 @@ main > *:target ~ * {
 .hide,
 a.hide,
 main.hide {
-  display: none!important;
+  display: none;
 }
 
 

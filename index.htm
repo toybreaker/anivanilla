@@ -27,13 +27,18 @@
         margin: 0;
       }
 
-      body {}
+      body {
+        overflow-x: hidden;
+      }
 
       app {
         margin: 0;
         padding: 0;
-        min-width: 100vw;
+        width: 100vw;
         min-height: 100vh;
+
+        margin-left: auto;
+        margin-right: auto;
         font-size: calc( 16px + 1.5vw);
         display: flex;
         justify-content: center;
@@ -66,12 +71,23 @@
 
       function cicileu(clicked_year) {
         console.log(clicked_year);
+        var u = document.getElementById(clicked_year).firstChild;
+        u.style.color = 'white';
+        u.style.paddingBottom = '20px';
+        u.style.fontSize = '3rem';
         var ieu = document.getElementById(clicked_year).lastChild;
         ieu.style.display = 'block';
       }
     </script>
 
     <script src="data/years.js"></script>
+
+    <script type="text/javascript">
+      // yearsFunction(
+      //   //get years.json. how?
+      //
+      // );
+    </script>
 
 
   </body>

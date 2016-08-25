@@ -49,7 +49,9 @@
 .years_list a span {
     display: block;
     color: gold;
-    min-width: 50vh;
+    min-width: 50vw;
+    width: calc(100vw - 4rem);
+    text-align: right;
 }
 .years_list a span:first-child {
     padding-top: .5rem;

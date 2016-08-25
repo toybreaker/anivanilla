@@ -1,127 +1,103 @@
 /* basic layout */
 
 .years .button {
-  position: fixed;
-  top: 0;
-  left: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
 /*when years are hidden, need a button to go back*/
-.years.small {
-  min-height: auto;
-  height: 0;
-  overflow: hidden;
-}
 
+.years.small {
+    min-height: auto;
+    height: 0;
+    overflow: hidden;
+}
 .years a {
-  display: inline-block;
-  text-decoration: none;
-  padding: .5rem 1rem;
-  color: red;
+    display: inline-block;
+    text-decoration: none;
+    padding: .5rem 1rem;
+    color: red;
 }
 .years a:hover {
-  color: orange;
+    color: orange;
 }
-
+.years a:visited div{
+    color: yellow;
+}
 .years_list {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-
-  padding: 2rem;
-  height: 96%;
-  width: 96%;
-  margin: 2vh 2vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
 }
-
-.years .years_list {
-
-}
-
+.years .years_list {}
 .animals .animal {
-  min-height: 100vh;
-  font-size: calc( 6vh + 6vw);
-  line-height: 50vh;
-  text-align: center;
+    min-height: 100vh;
+    line-height: 50vw;
+    text-align: center;
 }
-
-
-
-/* view visibility logic and animation */
-
-main > * {
-  display: none;
-}
-
-main > *:last-child {
-  display: block;
-}
-
-@keyframes pulse {
-  0% { transform: scale(0.25) }
-  50% { transform: scale(1.05) }
-  100% { transform: scale(1) }
-}
-
-main > *:target {
-  display: block;
-  animation: pulse 0.5s linear 1;
-}
-
-main > *:target ~ * {
-  display: none;
-}
-
-
-
-
 
 /* helpers */
-.hide,
-a.hide,
-main.hide {
-  display: none;
+
+.hide, a.hide, main.hide {
+    display: none;
 }
 
+/*this controls year-cards when opened*/
 .years_list a span {
-  display: block;
-  width: 100vw;
-  color: gold;
+    display: block;
+    color: gold;
+    min-width: 50vh;
 }
-
-.years_list a span:first-child{
-  border-top: 1px solid red;
+.years_list a span:first-child {
+    padding-top: .5rem;
+    border-top: 1px solid red;
 }
-
-.rat,
-.ox,
-.tiger,
-.rabbit,
-.dragon,
-.snake,
-.horse,
-.goat,
-.monkey,
-.rooster,
-.dog,
-.pig
- {
-  background-position: center bottom;
-  background-repeat: no-repeat;
-  background-clip: content-box;
-  background-size: contain;
+.years_list a span:last-child {
+    padding-bottom: .5rem;
+    border-bottom: 1px solid red;
 }
-
-.rat{background-image: url(svg/rat.svg);}
-.ox{background-image: url(svg/ox.svg);}
-.tiger{background-image: url(svg/tiger.svg);}
-.rabbit{background-image: url(svg/rabbit.svg);}
-.dragon{background-image: url(svg/dragon.svg);}
-.snake{background-image: url(svg/snake.svg);}
-.horse{background-image: url(svg/horse.svg);}
-.goat{background-image: url(svg/goat.svg);}
-.monkey{background-image: url(svg/monkey.svg);}
-.rooster{background-image: url(svg/rooster.svg);}
-.dog{background-image: url(svg/dog.svg);}
-.pig {background-image: url(svg/pig.svg);}
+.rat, .ox, .tiger, .rabbit, .dragon, .snake, .horse, .goat, .monkey, .rooster, .dog, .pig {
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    background-size: contain;
+}
+.rat {
+    background-image: url(svg/rat.svg);
+}
+.ox {
+    background-image: url(svg/ox.svg);
+}
+.tiger {
+    background-image: url(svg/tiger.svg);
+}
+.rabbit {
+    background-image: url(svg/rabbit.svg);
+}
+.dragon {
+    background-image: url(svg/dragon.svg);
+}
+.snake {
+    background-image: url(svg/snake.svg);
+}
+.horse {
+    background-image: url(svg/horse.svg);
+}
+.goat {
+    background-image: url(svg/goat.svg);
+}
+.monkey {
+    background-image: url(svg/monkey.svg);
+}
+.rooster {
+    background-image: url(svg/rooster.svg);
+}
+.dog {
+    background-image: url(svg/dog.svg);
+}
+.pig {
+    background-image: url(svg/pig.svg);
+}

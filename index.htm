@@ -1,122 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<head>
+  <head>
     <meta charset="UTF-8">
     <title>ANIYOU • Know the Animal in You</title>
 
     <style media="screen">
-        html {
-            font-size: 16px;
-            box-sizing: border-box;
-            font: caption;
-            font-weight: 200;
-            background-color: #161616;
-            color: white;
-            text-transform: uppercase;
-        }
+      html {
+        font-size: 16px;
+        box-sizing: border-box;
+        font: caption;
+        font-weight: 200;
+        background-color: #161616;
+        color: white;
+        text-transform: uppercase;
+      }
 
-        *,
-        *:before,
-        *:after {
-            box-sizing: inherit;
-            padding: 0;
-            margin: 0;
-        }
+      *,
+      *:before,
+      *:after {
+        box-sizing: inherit;
+        padding: 0;
+        margin: 0;
+      }
 
-        body {}
+      body {}
 
-        app {
-            margin: 0;
-            padding: 0;
-            min-width: 100vw;
-            min-height: 100vh;
-            font-size: calc( 2vh + 2vw);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
+      app {
+        margin: 0;
+        padding: 0;
+        min-width: 100vw;
+        min-height: 100vh;
+        font-size: calc( 2vh+ 2vw);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
     </style>
     <link rel="stylesheet" href="rok.css">
-</head>
+  </head>
 
-<body>
+  <body>
 
     <app role="navigation" class="years" id="years">
 
-        <a href="/" class="button hide" id="button"> start </a>
+      <a href="/" class="button hide" id="button"> start </a>
 
-        <div class="years_list" id="years_list"></div>
+      <div class="years_list" id="years_list"></div>
 
     </app>
 
-
-<!--
     <script type="text/javascript">
-        /* code that SPEAKs: toggle ... */
-        function toggleClass(element, className) {
-            if (!element || !className) {
-                return;
-            }
-
-            var classString = element.className,
-                nameIndex = classString.indexOf(className);
-            if (nameIndex == -1) {
-                classString += ' ' + className;
-            } else {
-                classString = classString.substr(0, nameIndex) + classString.substr(nameIndex + className.length);
-            }
-            element.className = classString;
+      function yearsFunction(arr) {
+        var out = "";
+        var i;
+        for (i = 0; i < arr.length; i++) {
+          out += '<a href="#" onclick="cicileu(this.id)" id="' + arr[i].year + '"><div>' + arr[i].year + '</div><div class="hide" id="h_' + arr[i].animal + '"><span>' + arr[i].animal + '</span><span>' + arr[i].start_date + '</span><span>' +
+            arr[i].end_date + '</span><span>' + arr[i].yinyang + '</span><span>' + arr[i].element + '</span><span>' + arr[i].heavenly_stem + '</span><span>' + arr[i].earthly_branch + '</span></div></a>';
         }
+        document.getElementById("years_list").innerHTML = out;
+      }
 
-        document.getElementById('years_list').addEventListener('click', function() {
-            toggleClass(document.getElementById('animals'), 'hide'),
-            toggleClass(document.body, 'animal_you');
-        });
-    </script> -->
-
-    <script type="text/javascript">
-
-
-
-        function yearsFunction(arr) {
-          // function show_sub(el){
-          //   var last_child = element.lastChild;
-          //
-          //   // this.sub = "";
-          //   // var details = lastElementChild(parentDiv);
-          //   // = document.getElementById("shoppingBasket").innerText = "you have no products in your shopping basket.";
-          //
-          // };
-            var out = "";
-            var i;
-            for (i = 0; i < arr.length; i++) {
-                out += '<a href="#" onclick="reply_click(this.id)" id="' + arr[i].year + '"><div>' + arr[i].year + '</div><div class="hide" id="h_' + arr[i].animal + '"><span>' + arr[i].animal + '</span><span>' + arr[i].start_date + '</span><span>' + arr[i].end_date + '</span><span>' + arr[i].yinyang + '</span><span>' + arr[i].element + '</span><span>' + arr[i].heavenly_stem + '</span><span>' + arr[i].earthly_branch + '</span></div></a>';
-            }
-            document.getElementById("years_list").innerHTML = out;
-        }
-        function reply_click(clicked_year)
-        {
-            //alert(clicked_id);
-            console.log(clicked_year);
-
-            //it works:
-            //document.getElementById(clicked_year).innerHTML = "ZAP";
-
-            var ieu = document.getElementById(clicked_year).lastChild;
-            console.log(ieu);
-
-            ieu.style.display = 'block';
-            // var last_child = (clicked_id).lastChild;
-            // document.getElementById(clicked_year).lastChild = "ZAP";
-        }
-
-
+      function cicileu(clicked_year) {
+        console.log(clicked_year);
+        var ieu = document.getElementById(clicked_year).lastChild;
+        ieu.style.display = 'block';
+      }
     </script>
 
     <script src="data/years.js"></script>
 
 
-</body>
+  </body>
 
 </html>

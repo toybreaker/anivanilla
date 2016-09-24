@@ -7,6 +7,9 @@ yearsFunction(
    "end_date": "jan 26 1941",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "庚",
    "earthly_branch": "辰"
  },
@@ -17,6 +20,9 @@ yearsFunction(
    "end_date": "feb 14 1942",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "09:00 – 11:00 am",
+   "fixed_element": "fire",
+   "intensity": "3",
    "heavenly_stem": "辛",
    "earthly_branch": "巳"
  },
@@ -27,6 +33,9 @@ yearsFunction(
    "end_date": "feb 04 1943",
    "yinyang": "yin",
    "element": "water",
+   "hour": "11:00 – 01:00 pm",
+   "fixed_element": "fire",
+   "intensity": "2",
    "heavenly_stem": "壬",
    "earthly_branch": "午"
  },
@@ -37,6 +46,9 @@ yearsFunction(
    "end_date": "jan 24 1944",
    "yinyang": "yang",
    "element": "water",
+   "hour": "01:00 – 03:00 pm",
+   "fixed_element": "earth",
+   "intensity": "1",
    "heavenly_stem": "癸",
    "earthly_branch": "未"
  },
@@ -47,6 +59,9 @@ yearsFunction(
    "end_date": "feb 12 1945",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "03:00 – 05:00 pm",
+   "fixed_element": "metal",
+   "intensity": "4",
    "heavenly_stem": "甲",
    "earthly_branch": "申"
  },
@@ -57,6 +72,9 @@ yearsFunction(
    "end_date": "feb 01 1946",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "05:00 – 07:00 pm",
+   "fixed_element": "metal",
+   "intensity": "3",
    "heavenly_stem": "乙",
    "earthly_branch": "酉"
  },
@@ -67,6 +85,9 @@ yearsFunction(
    "end_date": "jan 21 1947",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "07:00 – 09:00 pm",
+   "fixed_element": "earth",
+   "intensity": "2",
    "heavenly_stem": "丙",
    "earthly_branch": "戌"
  },
@@ -77,6 +98,9 @@ yearsFunction(
    "end_date": "feb 09 1948",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "09:00 – 11:00 pm",
+   "fixed_element": "water",
+   "intensity": "1",
    "heavenly_stem": "丁",
    "earthly_branch": "亥"
  },
@@ -87,6 +111,9 @@ yearsFunction(
    "end_date": "jan 28 1949",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "11:00 pm – 01:00 am",
+   "fixed_element": "water",
+   "intensity": "4",
    "heavenly_stem": "戊",
    "earthly_branch": "子"
  },
@@ -97,6 +124,9 @@ yearsFunction(
    "end_date": "feb 16 1950",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "01:00 – 03:00 am",
+   "fixed_element": "earth",
+   "intensity": "3",
    "heavenly_stem": "己",
    "earthly_branch": "丑"
  },
@@ -107,6 +137,9 @@ yearsFunction(
    "end_date": "feb 05 1951",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "03:00 – 05:00 am",
+   "fixed_element": "wood",
+   "intensity": "2",
    "heavenly_stem": "庚",
    "earthly_branch": "寅"
  },
@@ -117,6 +150,9 @@ yearsFunction(
    "end_date": "jan 26 1952",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "05:00 – 07:00 am",
+   "fixed_element": "wood",
+   "intensity": "1",
    "heavenly_stem": "辛",
    "earthly_branch": "卯"
  },
@@ -127,6 +163,9 @@ yearsFunction(
    "end_date": "feb 13 1953",
    "yinyang": "yang",
    "element": "water",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "壬",
    "earthly_branch": "辰"
  },
@@ -137,6 +176,9 @@ yearsFunction(
    "end_date": "feb 02 1954",
    "yinyang": "yin",
    "element": "water",
+   "hour": "09:00 – 11:00 am",
+   "fixed_element": "fire",
+   "intensity": "3",
    "heavenly_stem": "癸",
    "earthly_branch": "巳"
  },
@@ -147,6 +189,9 @@ yearsFunction(
    "end_date": "jan 23 1955",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "11:00 – 01:00 pm",
+   "fixed_element": "fire",
+   "intensity": "2",
    "heavenly_stem": "甲",
    "earthly_branch": "午"
  },
@@ -157,6 +202,9 @@ yearsFunction(
    "end_date": "feb 11 1956",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "01:00 – 03:00 pm",
+   "fixed_element": "earth",
+   "intensity": "1",
    "heavenly_stem": "乙",
    "earthly_branch": "未"
  },
@@ -167,6 +215,9 @@ yearsFunction(
    "end_date": "jan 30 1957",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "03:00 – 05:00 pm",
+   "fixed_element": "metal",
+   "intensity": "4",
    "heavenly_stem": "丙",
    "earthly_branch": "申"
  },
@@ -177,6 +228,9 @@ yearsFunction(
    "end_date": "feb 17 1958",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "05:00 – 07:00 pm",
+   "fixed_element": "metal",
+   "intensity": "3",
    "heavenly_stem": "丁",
    "earthly_branch": "酉"
  },
@@ -187,6 +241,9 @@ yearsFunction(
    "end_date": "feb 07 1959",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "07:00 – 09:00 pm",
+   "fixed_element": "earth",
+   "intensity": "2",
    "heavenly_stem": "戊",
    "earthly_branch": "戌"
  },
@@ -197,6 +254,9 @@ yearsFunction(
    "end_date": "jan 27 1960",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "09:00 – 11:00 pm",
+   "fixed_element": "water",
+   "intensity": "1",
    "heavenly_stem": "己",
    "earthly_branch": "亥"
  },
@@ -207,6 +267,9 @@ yearsFunction(
    "end_date": "feb 14 1961",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "11:00 pm – 01:00 am",
+   "fixed_element": "water",
+   "intensity": "4",
    "heavenly_stem": "庚",
    "earthly_branch": "子"
  },
@@ -217,6 +280,9 @@ yearsFunction(
    "end_date": "feb 04 1962",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "01:00 – 03:00 am",
+   "fixed_element": "earth",
+   "intensity": "3",
    "heavenly_stem": "辛",
    "earthly_branch": "丑"
  },
@@ -227,6 +293,9 @@ yearsFunction(
    "end_date": "jan 24 1963",
    "yinyang": "yin",
    "element": "water",
+   "hour": "03:00 – 05:00 am",
+   "fixed_element": "wood",
+   "intensity": "2",
    "heavenly_stem": "壬",
    "earthly_branch": "寅"
  },
@@ -237,6 +306,9 @@ yearsFunction(
    "end_date": "feb 12 1964",
    "yinyang": "yang",
    "element": "water",
+   "hour": "05:00 – 07:00 am",
+   "fixed_element": "wood",
+   "intensity": "1",
    "heavenly_stem": "癸",
    "earthly_branch": "卯"
  },
@@ -247,6 +319,9 @@ yearsFunction(
    "end_date": "feb 01 1965",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "甲",
    "earthly_branch": "辰"
  },
@@ -257,6 +332,9 @@ yearsFunction(
    "end_date": "jan 20 1966",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "09:00 – 11:00 am",
+   "fixed_element": "fire",
+   "intensity": "3",
    "heavenly_stem": "乙",
    "earthly_branch": "巳"
  },
@@ -267,6 +345,9 @@ yearsFunction(
    "end_date": "feb 08 1967",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "11:00 – 01:00 pm",
+   "fixed_element": "fire",
+   "intensity": "2",
    "heavenly_stem": "丙",
    "earthly_branch": "午"
  },
@@ -277,6 +358,9 @@ yearsFunction(
    "end_date": "jan 29 1968",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "01:00 – 03:00 pm",
+   "fixed_element": "earth",
+   "intensity": "1",
    "heavenly_stem": "丁",
    "earthly_branch": "未"
  },
@@ -287,6 +371,9 @@ yearsFunction(
    "end_date": "feb 16 1969",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "03:00 – 05:00 pm",
+   "fixed_element": "metal",
+   "intensity": "4",
    "heavenly_stem": "戊",
    "earthly_branch": "申"
  },
@@ -297,6 +384,9 @@ yearsFunction(
    "end_date": "feb 05 1970",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "05:00 – 07:00 pm",
+   "fixed_element": "metal",
+   "intensity": "3",
    "heavenly_stem": "己",
    "earthly_branch": "酉"
  },
@@ -307,6 +397,9 @@ yearsFunction(
    "end_date": "jan 26 1971",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "07:00 – 09:00 pm",
+   "fixed_element": "earth",
+   "intensity": "2",
    "heavenly_stem": "庚",
    "earthly_branch": "戌"
  },
@@ -317,6 +410,9 @@ yearsFunction(
    "end_date": "feb 14 1972",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "09:00 – 11:00 pm",
+   "fixed_element": "water",
+   "intensity": "1",
    "heavenly_stem": "辛",
    "earthly_branch": "亥"
  },
@@ -327,6 +423,9 @@ yearsFunction(
    "end_date": "feb 02 1973",
    "yinyang": "yang",
    "element": "water",
+   "hour": "11:00 pm – 01:00 am",
+   "fixed_element": "water",
+   "intensity": "4",
    "heavenly_stem": "壬",
    "earthly_branch": "子"
  },
@@ -337,6 +436,9 @@ yearsFunction(
    "end_date": "jan 22 1974",
    "yinyang": "yin",
    "element": "water",
+   "hour": "01:00 – 03:00 am",
+   "fixed_element": "earth",
+   "intensity": "3",
    "heavenly_stem": "癸",
    "earthly_branch": "丑"
  },
@@ -347,6 +449,9 @@ yearsFunction(
    "end_date": "feb 10 1975",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "03:00 – 05:00 am",
+   "fixed_element": "wood",
+   "intensity": "2",
    "heavenly_stem": "甲",
    "earthly_branch": "寅"
  },
@@ -357,6 +462,9 @@ yearsFunction(
    "end_date": "jan 30 1976",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "05:00 – 07:00 am",
+   "fixed_element": "wood",
+   "intensity": "1",
    "heavenly_stem": "乙",
    "earthly_branch": "卯"
  },
@@ -367,6 +475,9 @@ yearsFunction(
    "end_date": "feb 17 1977",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "丙",
    "earthly_branch": "辰"
  },
@@ -377,6 +488,9 @@ yearsFunction(
    "end_date": "feb 06 1978",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "09:00 – 11:00 am",
+   "fixed_element": "fire",
+   "intensity": "3",
    "heavenly_stem": "丁",
    "earthly_branch": "巳"
  },
@@ -387,6 +501,9 @@ yearsFunction(
    "end_date": "jan 27 1979",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "11:00 – 01:00 pm",
+   "fixed_element": "fire",
+   "intensity": "2",
    "heavenly_stem": "戊",
    "earthly_branch": "午"
  },
@@ -397,6 +514,9 @@ yearsFunction(
    "end_date": "feb 15 1980",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "01:00 – 03:00 pm",
+   "fixed_element": "earth",
+   "intensity": "1",
    "heavenly_stem": "己",
    "earthly_branch": "未"
  },
@@ -407,6 +527,9 @@ yearsFunction(
    "end_date": "feb 04 1981",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "03:00 – 05:00 pm",
+   "fixed_element": "metal",
+   "intensity": "4",
    "heavenly_stem": "庚",
    "earthly_branch": "申"
  },
@@ -417,6 +540,9 @@ yearsFunction(
    "end_date": "jan 24 1982",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "05:00 – 07:00 pm",
+   "fixed_element": "metal",
+   "intensity": "3",
    "heavenly_stem": "辛",
    "earthly_branch": "酉"
  },
@@ -427,6 +553,9 @@ yearsFunction(
    "end_date": "feb 12 1983",
    "yinyang": "yin",
    "element": "water",
+   "hour": "07:00 – 09:00 pm",
+   "fixed_element": "earth",
+   "intensity": "2",
    "heavenly_stem": "壬",
    "earthly_branch": "戌"
  },
@@ -437,6 +566,9 @@ yearsFunction(
    "end_date": "feb 01 1984",
    "yinyang": "yang",
    "element": "water",
+   "hour": "09:00 – 11:00 pm",
+   "fixed_element": "water",
+   "intensity": "1",
    "heavenly_stem": "癸",
    "earthly_branch": "亥"
  },
@@ -447,6 +579,9 @@ yearsFunction(
    "end_date": "jan 21 1985",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "11:00 pm – 01:00 am",
+   "fixed_element": "water",
+   "intensity": "4",
    "heavenly_stem": "甲",
    "earthly_branch": "子"
  },
@@ -457,6 +592,9 @@ yearsFunction(
    "end_date": "feb 08 1986",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "01:00 – 03:00 am",
+   "fixed_element": "earth",
+   "intensity": "3",
    "heavenly_stem": "乙",
    "earthly_branch": "丑"
  },
@@ -467,6 +605,9 @@ yearsFunction(
    "end_date": "jan 28 1987",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "03:00 – 05:00 am",
+   "fixed_element": "wood",
+   "intensity": "2",
    "heavenly_stem": "丙",
    "earthly_branch": "寅"
  },
@@ -477,6 +618,9 @@ yearsFunction(
    "end_date": "feb 16 1988",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "05:00 – 07:00 am",
+   "fixed_element": "wood",
+   "intensity": "1",
    "heavenly_stem": "丁",
    "earthly_branch": "卯"
  },
@@ -487,6 +631,9 @@ yearsFunction(
    "end_date": "feb 05 1989",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "戊",
    "earthly_branch": "辰"
  },
@@ -497,6 +644,9 @@ yearsFunction(
    "end_date": "jan 26 1990",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "09:00 – 11:00 am",
+   "fixed_element": "fire",
+   "intensity": "3",
    "heavenly_stem": "己",
    "earthly_branch": "巳"
  },
@@ -507,6 +657,9 @@ yearsFunction(
    "end_date": "feb 14 1991",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "11:00 – 01:00 pm",
+   "fixed_element": "fire",
+   "intensity": "2",
    "heavenly_stem": "庚",
    "earthly_branch": "午"
  },
@@ -517,6 +670,9 @@ yearsFunction(
    "end_date": "feb 03 1992",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "01:00 – 03:00 pm",
+   "fixed_element": "earth",
+   "intensity": "1",
    "heavenly_stem": "辛",
    "earthly_branch": "未"
  },
@@ -527,6 +683,9 @@ yearsFunction(
    "end_date": "jan 22 1993",
    "yinyang": "yang",
    "element": "water",
+   "hour": "03:00 – 05:00 pm",
+   "fixed_element": "metal",
+   "intensity": "4",
    "heavenly_stem": "壬",
    "earthly_branch": "申"
  },
@@ -537,6 +696,9 @@ yearsFunction(
    "end_date": "feb 09 1994",
    "yinyang": "yin",
    "element": "water",
+   "hour": "05:00 – 07:00 pm",
+   "fixed_element": "metal",
+   "intensity": "3",
    "heavenly_stem": "癸",
    "earthly_branch": "酉"
  },
@@ -547,6 +709,9 @@ yearsFunction(
    "end_date": "jan 30 1995",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "07:00 – 09:00 pm",
+   "fixed_element": "earth",
+   "intensity": "2",
    "heavenly_stem": "甲",
    "earthly_branch": "戌"
  },
@@ -557,6 +722,9 @@ yearsFunction(
    "end_date": "feb 18 1996",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "09:00 – 11:00 pm",
+   "fixed_element": "water",
+   "intensity": "1",
    "heavenly_stem": "乙",
    "earthly_branch": "亥"
  },
@@ -567,6 +735,9 @@ yearsFunction(
    "end_date": "feb 06 1997",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "11:00 pm – 01:00 am",
+   "fixed_element": "water",
+   "intensity": "4",
    "heavenly_stem": "丙",
    "earthly_branch": "子"
  },
@@ -577,6 +748,9 @@ yearsFunction(
    "end_date": "jan 27 1998",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "01:00 – 03:00 am",
+   "fixed_element": "earth",
+   "intensity": "3",
    "heavenly_stem": "丁",
    "earthly_branch": "丑"
  },
@@ -587,6 +761,9 @@ yearsFunction(
    "end_date": "feb 15 1999",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "03:00 – 05:00 am",
+   "fixed_element": "wood",
+   "intensity": "2",
    "heavenly_stem": "戊",
    "earthly_branch": "寅"
  },
@@ -597,6 +774,9 @@ yearsFunction(
    "end_date": "feb 04 2000",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "05:00 – 07:00 am",
+   "fixed_element": "wood",
+   "intensity": "1",
    "heavenly_stem": "己",
    "earthly_branch": "卯"
  },
@@ -607,6 +787,9 @@ yearsFunction(
    "end_date": "jan 23 2001",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "庚",
    "earthly_branch": "辰"
  },
@@ -617,6 +800,9 @@ yearsFunction(
    "end_date": "feb 11 2002",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "09:00 – 11:00 am",
+   "fixed_element": "fire",
+   "intensity": "3",
    "heavenly_stem": "辛",
    "earthly_branch": "巳"
  },
@@ -627,6 +813,9 @@ yearsFunction(
    "end_date": "jan 31 2003",
    "yinyang": "yin",
    "element": "water",
+   "hour": "11:00 – 01:00 pm",
+   "fixed_element": "fire",
+   "intensity": "2",
    "heavenly_stem": "壬",
    "earthly_branch": "午"
  },
@@ -637,6 +826,9 @@ yearsFunction(
    "end_date": "jan 21 2004",
    "yinyang": "yang",
    "element": "water",
+   "hour": "01:00 – 03:00 pm",
+   "fixed_element": "earth",
+   "intensity": "1",
    "heavenly_stem": "癸",
    "earthly_branch": "未"
  },
@@ -647,6 +839,9 @@ yearsFunction(
    "end_date": "feb 08 2005",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "03:00 – 05:00 pm",
+   "fixed_element": "metal",
+   "intensity": "4",
    "heavenly_stem": "甲",
    "earthly_branch": "申"
  },
@@ -657,6 +852,9 @@ yearsFunction(
    "end_date": "jan 28 2006",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "05:00 – 07:00 pm",
+   "fixed_element": "metal",
+   "intensity": "3",
    "heavenly_stem": "乙",
    "earthly_branch": "酉"
  },
@@ -667,6 +865,9 @@ yearsFunction(
    "end_date": "feb 17 2007",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "07:00 – 09:00 pm",
+   "fixed_element": "earth",
+   "intensity": "2",
    "heavenly_stem": "丙",
    "earthly_branch": "戌"
  },
@@ -677,6 +878,9 @@ yearsFunction(
    "end_date": "feb 06 2008",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "09:00 – 11:00 pm",
+   "fixed_element": "water",
+   "intensity": "1",
    "heavenly_stem": "丁",
    "earthly_branch": "亥"
  },
@@ -687,6 +891,9 @@ yearsFunction(
    "end_date": "jan 25 2009",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "11:00 pm – 01:00 am",
+   "fixed_element": "water",
+   "intensity": "4",
    "heavenly_stem": "戊",
    "earthly_branch": "子"
  },
@@ -697,6 +904,9 @@ yearsFunction(
    "end_date": "feb 13 2010",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "01:00 – 03:00 am",
+   "fixed_element": "earth",
+   "intensity": "3",
    "heavenly_stem": "己",
    "earthly_branch": "丑"
  },
@@ -707,6 +917,9 @@ yearsFunction(
    "end_date": "feb 02 2011",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "03:00 – 05:00 am",
+   "fixed_element": "wood",
+   "intensity": "2",
    "heavenly_stem": "庚",
    "earthly_branch": "寅"
  },
@@ -717,6 +930,9 @@ yearsFunction(
    "end_date": "jan 22 2012",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "05:00 – 07:00 am",
+   "fixed_element": "wood",
+   "intensity": "1",
    "heavenly_stem": "辛",
    "earthly_branch": "卯"
  },
@@ -727,6 +943,9 @@ yearsFunction(
    "end_date": "feb 09 2013",
    "yinyang": "yang",
    "element": "water",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "壬",
    "earthly_branch": "辰"
  },
@@ -737,6 +956,9 @@ yearsFunction(
    "end_date": "jan 30 2014",
    "yinyang": "yin",
    "element": "water",
+   "hour": "09:00 – 11:00 am",
+   "fixed_element": "fire",
+   "intensity": "3",
    "heavenly_stem": "癸",
    "earthly_branch": "巳"
  },
@@ -747,6 +969,9 @@ yearsFunction(
    "end_date": "feb 18 2015",
    "yinyang": "yin",
    "element": "wood",
+   "hour": "11:00 – 01:00 pm",
+   "fixed_element": "fire",
+   "intensity": "2",
    "heavenly_stem": "甲",
    "earthly_branch": "午"
  },
@@ -757,6 +982,9 @@ yearsFunction(
    "end_date": "feb 07 2016",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "01:00 – 03:00 pm",
+   "fixed_element": "earth",
+   "intensity": "1",
    "heavenly_stem": "乙",
    "earthly_branch": "未"
  },
@@ -767,6 +995,9 @@ yearsFunction(
    "end_date": "feb 07 2016",
    "yinyang": "yang",
    "element": "fire",
+   "hour": "03:00 – 05:00 pm",
+   "fixed_element": "metal",
+   "intensity": "4",
    "heavenly_stem": "丙",
    "earthly_branch": "申"
  },
@@ -777,6 +1008,9 @@ yearsFunction(
    "end_date": "feb 15 2018",
    "yinyang": "yin",
    "element": "fire",
+   "hour": "05:00 – 07:00 pm",
+   "fixed_element": "metal",
+   "intensity": "3",
    "heavenly_stem": "丁",
    "earthly_branch": "酉"
  },
@@ -787,6 +1021,9 @@ yearsFunction(
    "end_date": "feb 04 2019",
    "yinyang": "yin",
    "element": "earth",
+   "hour": "07:00 – 09:00 pm",
+   "fixed_element": "earth",
+   "intensity": "2",
    "heavenly_stem": "戊",
    "earthly_branch": "戌"
  },
@@ -797,6 +1034,9 @@ yearsFunction(
    "end_date": "jan 24 2020",
    "yinyang": "yang",
    "element": "earth",
+   "hour": "09:00 – 11:00 pm",
+   "fixed_element": "water",
+   "intensity": "1",
    "heavenly_stem": "己",
    "earthly_branch": "亥"
  },
@@ -807,6 +1047,9 @@ yearsFunction(
    "end_date": "feb 11 2021",
    "yinyang": "yang",
    "element": "metal",
+   "hour": "11:00 pm – 01:00 am",
+   "fixed_element": "water",
+   "intensity": "4",
    "heavenly_stem": "庚",
    "earthly_branch": "子"
  },
@@ -817,6 +1060,9 @@ yearsFunction(
    "end_date": "jan 31 2022",
    "yinyang": "yin",
    "element": "metal",
+   "hour": "01:00 – 03:00 am",
+   "fixed_element": "earth",
+   "intensity": "3",
    "heavenly_stem": "辛",
    "earthly_branch": "丑"
  },
@@ -827,6 +1073,9 @@ yearsFunction(
    "end_date": "jan 21 2023",
    "yinyang": "yin",
    "element": "water",
+   "hour": "03:00 – 05:00 am",
+   "fixed_element": "wood",
+   "intensity": "2",
    "heavenly_stem": "壬",
    "earthly_branch": "寅"
  },
@@ -837,6 +1086,9 @@ yearsFunction(
    "end_date": "feb 09 2024",
    "yinyang": "yang",
    "element": "water",
+   "hour": "05:00 – 07:00 am",
+   "fixed_element": "wood",
+   "intensity": "1",
    "heavenly_stem": "癸",
    "earthly_branch": "卯"
  },
@@ -847,6 +1099,9 @@ yearsFunction(
    "end_date": "jan 28 2025",
    "yinyang": "yang",
    "element": "wood",
+   "hour": "07:00 – 09:00 am",
+   "fixed_element": "earth",
+   "intensity": "4",
    "heavenly_stem": "甲",
    "earthly_branch": "辰"
  }

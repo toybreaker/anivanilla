@@ -61,45 +61,45 @@
     padding-bottom: .5rem;
     border-bottom: 1px solid red;
 }
-.rat, .ox, .tiger, .rabbit, .dragon, .snake, .horse, .goat, .monkey, .rooster, .dog, .pig {
+#h_rat, #h_ox, #h_tiger, #h_rabbit, #h_dragon, #h_snake, #h_horse, #h_goat, #h_monkey, #h_rooster, #h_dog, #h_pig {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-clip: content-box;
     background-size: contain;
 }
-.rat {
+#h_rat {
     background-image: url(svg/rat.svg);
 }
-.ox {
+#h_ox {
     background-image: url(svg/ox.svg);
 }
-.tiger {
+#h_tiger {
     background-image: url(svg/tiger.svg);
 }
-.rabbit {
+#h_rabbit {
     background-image: url(svg/rabbit.svg);
 }
-.dragon {
+#h_dragon {
     background-image: url(svg/dragon.svg);
 }
-.snake {
+#h_snake {
     background-image: url(svg/snake.svg);
 }
-.horse {
+#h_horse {
     background-image: url(svg/horse.svg);
 }
-.goat {
+#h_goat {
     background-image: url(svg/goat.svg);
 }
-.monkey {
+#h_monkey {
     background-image: url(svg/monkey.svg);
 }
-.rooster {
+#h_rooster {
     background-image: url(svg/rooster.svg);
 }
-.dog {
+#h_dog {
     background-image: url(svg/dog.svg);
 }
-.pig {
+#h_pig {
     background-image: url(svg/pig.svg);
 }

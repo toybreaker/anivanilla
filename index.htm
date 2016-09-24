@@ -63,7 +63,7 @@
         var out = "";
         var i;
         for (i = 0; i < arr.length; i++) {
-          out += '<a href="#" onclick="cicileu(this.id)" id="' + arr[i].year + '"><div>' + arr[i].year + '</div><div class="card hide" id="h_' + arr[i].animal + '"><span>' + arr[i].animal + '</span><span>' + arr[i].start_date + '</span><span>' +
+          out += '<a href="#'+ arr[i].year +'" onclick="cicileu(this.id)" id="' + arr[i].year + '"><div>' + arr[i].year + '</div><div class="card hide" id="h_' + arr[i].animal + '"><span>' + arr[i].animal + '</span><span>' + arr[i].start_date + '</span><span>' +
             arr[i].end_date + '</span><span>' + arr[i].yinyang + '</span><span>' + arr[i].element + '</span><span>' + arr[i].hour + '</span><span>' + arr[i].fixed_element + '</span><span>' + arr[i].intensity + '</span><span>' + arr[i].heavenly_stem + '</span><span>' + arr[i].earthly_branch + '</span></div></a>';
         }
         document.getElementById("years_list").innerHTML = out;

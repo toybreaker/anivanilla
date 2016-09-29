@@ -79,9 +79,7 @@
 #h_rabbit {
     background-image: url(svg/rabbit.svg);
 }
-#h_dragon {
-    background-image: url(svg/dragon.svg);
-}
+
 #h_snake {
     background-image: url(svg/snake.svg);
 }
@@ -104,73 +102,113 @@
     background-image: url(svg/pig.svg);
 }
 
-.card span:nth-child(1):before {
+.card span:nth-child(2):before {
   content: "animal";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(2):before {
+.card span:nth-child(3):before {
   content: "starts";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(3):before {
+.card span:nth-child(4):before {
   content: "end";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(4):before {
+.card span:nth-child(5):before {
   content: "energy";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(5):before {
+.card span:nth-child(6):before {
   content: "moves like";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(6):before {
+.card span:nth-child(7):before {
   content: "hours";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(7):before {
+.card span:nth-child(8):before {
   content: "fixed element";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(8):before {
+.card span:nth-child(9):before {
   content: "intensity";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(9):before {
+.card span:nth-child(10):before {
   content: "heavenly stem";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
 }
-.card span:nth-child(10):before {
+.card span:nth-child(11):before {
   content: "earthly_branch";
   color: white;
   opacity: .5;
   font-size: 50%;
   padding-right: .5rem;
+}
+
+/*#h_dragon {
+    background-image: url(svg/dragon.svg);
+}*/
+#h_dragon.metal {
+   background-image: url(svg/dragon.svg);
+}
+#h_dragon.metal svg {
+   stroke: silver;
+}
+
+#h_dragon.wood {
+   background-image: url(svg/dragon_w.svg);
+}
+#h_dragon.wood svg {
+   stroke: orange;
+}
+
+#h_dragon.earth {
+   background-image: url(svg/dragon_e.svg);
+}
+#h_dragon.earth svg {
+   stroke: #804800;
+}
+
+
+
+#h_dragon.fire {
+   background-image: url(svg/dragon_f.svg);
+}
+#h_dragon.fire svg {
+   stroke: red;
+}
+
+#h_dragon.water {
+   background-image: url(svg/dragon_wa.svg);
+}
+#h_dragon.earth svg {
+   stroke: #008799;
 }

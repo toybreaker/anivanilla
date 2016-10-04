@@ -196,7 +196,7 @@ yearsFunction(
    "earthly_branch": "午"
  },
  {
-   "year": 1555,
+   "year": 1955,
    "animal": "goat",
    "start_date": "jan 24 1955",
    "end_date": "feb 11 1956",

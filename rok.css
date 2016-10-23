@@ -153,19 +153,20 @@
 
 svg[class^="icn--"]{
   fill: none;
+  stroke-width: 4;
   stroke-miterlimit: 10;
   stroke-linecap: round;
   stroke-linejoin: round;
 }
 
 svg.water[class^="icn--"] {
-   stroke: PowderBlue!important;
+   stroke: Turquoise!important;
 }
 svg.wood[class^="icn--"] {
    stroke: SpringGreen!important;
 }
 svg.earth[class^="icn--"] {
-   stroke: peru!important;
+   stroke: #b6732f!important;
 }
 svg.metal[class^="icn--"] {
    stroke: Gainsboro!important;
